@@ -16,6 +16,7 @@ print("\n The datatype of the dataset is\n", df.dtypes)
 # Data Cleaning
 
 #handling missing values
+df = df.drop(columns=["OrderProfitable", "SalesaboveTarget"], errors='ignore')
 df.fillna(df.select_dtypes(include = ['float64', 'int64']).mean(), inplace = True)
 df.fillna(df.select_dtypes(include = 'object').fillna('Unknown'), inplace = True)
 
