@@ -69,5 +69,5 @@ This project provided valuable experience in data cleaning, exploratory analysis
 
 **Author:** Berlin Samvel Pandian S  
 **Internship:** Main Flow Services and Technologies Pvt. Ltd.  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+**LinkedIn:** www.linkedin.com/in/s-berlin-samvel-pandian007
 
